@@ -76,7 +76,7 @@ This project utilizes the following libraries and resources:
 - [netCDF4](https://pypi.org/project/netCDF4/) for reading NetCDF files.
 - [GDAL](https://gdal.org/) for converting NetCDF files to GeoTIFF files.
 
-If you use this code in your project, please give credit by linking back to this repository and mentioning the original author (Steve Firsake).
+If you use this code in your project, please give credit by linking back to this repository and mentioning the original author [Steve Firsake](https://github.com/SteveFirsake).
 
 
 ## Notes
